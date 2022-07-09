@@ -15,7 +15,9 @@ pod 'SKLocalizable', :git => "https://github.com/steelkiwi/SKLocalizable.git"
 
 ### 1.2 Swift Package Manager
 
-Will be available later
+```swift
+https://github.com/VitaliiDeveloper/SKLocalizable
+```
 
 ### 1.3 Manually
 
